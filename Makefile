@@ -22,6 +22,6 @@ test:
 
 
 lint:
+hadolint Dockerfile
 	
-
 all: install lint test
